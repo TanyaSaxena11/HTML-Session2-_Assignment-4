@@ -1,0 +1,32 @@
+#topdiv{
+	width:800px;
+	height:40px;
+	background-color: black;
+}
+
+.mainDiv{
+	width:780px;
+	height:500px;
+	background-color:lightgrey;
+	padding-top:10px;
+	padding-left:20px;
+	padding-bottom:1px;
+}
+.tablediv{
+	width:680px;
+	height:450px;
+	background-color:white;
+	margin-left:40px;
+	margin-right:20px;
+	padding-top:20px;
+	border:2px solid black;
+}
+#mainTable{ 
+width:680px;
+height:450px;
+border-collapse: collapse;
+}
+
+
+	
+
